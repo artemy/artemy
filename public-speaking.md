@@ -4,7 +4,7 @@ A list of my public speaking engagements.
 
 | Date | Event  | Talk | Links |
 |------|-------|------|-------|
-| 2026-04-01 | [VoxxedDays Amsterdam](https://amsterdam.voxxeddays.com/) (Amsterdam, Netherlands) |  Make Cybersecurity Fun: Host Your Own Security-Themed Hackathon | [Talk](https://m.devoxx.com/events/vdams26/talks/11391/make-cybersecurity-fun-host-your-own-securitythemed-hackathon)<br>[Slides](https://github.com/artemy/host-your-own-ctf-hackathon)
+| 2026-04-01 | [VoxxedDays Amsterdam](https://amsterdam.voxxeddays.com/) (Amsterdam, Netherlands) |  Make Cybersecurity Fun: Host Your Own Security-Themed Hackathon | [Talk](https://m.devoxx.com/events/vdams26/talks/11391/make-cybersecurity-fun-host-your-own-securitythemed-hackathon)<br>[Slides](https://github.com/artemy/host-your-own-ctf-hackathon)<br>[Recording](https://www.youtube.com/watch?v=1BMJ81jfeRI)
 | 2025-11-12 | Devoxx Morocco (Marrakech, Morocco) | The Hardware Mindset in a Software World | [Talk](https://m.devoxx.com/events/dvma25/talks/10257/the-hardware-mindset-in-a-software-world) |
 | 2025-11-01 | [Hackaday Superconference](https://hackaday.io/superconference/) (Pasadena, CA, USA) | Hacked in Translation: Giving an Abandoned IoT Device a New Life | |
 | 2025-08-12 | [WHY2025](https://why2025.org/programme) (Geestmerambacht, Netherlands) | Hacked in Translation: Giving an Abandoned IoT Device a New Life | [Recording](https://www.youtube.com/watch?v=xXrW0zpYcgc) |
